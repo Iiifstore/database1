@@ -1,4 +1,4 @@
 {
-  "active": false,
-  "message": "❌ Semua Command Dimatikan Oleh @iif"
+  "maintenance": false,
+  "message": "✅ Bot berjalan normal — semua sistem aman."
 }
