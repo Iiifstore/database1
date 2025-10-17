@@ -1,4 +1,2 @@
-{
-  "maintenance": false,
-  "message": "✅ Bot berjalan normal — semua sistem aman."
-}
+on
+  
